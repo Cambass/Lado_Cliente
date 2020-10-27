@@ -1,0 +1,32 @@
+
+.collapse{
+    justify-content: center;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.calculo{
+    margin: 0 150px;
+}
+
+.btn{
+    margin: 20px 0;
+}
+
+.resultado{
+    margin: 0 150px;
+}
+
+.calculadora{
+    margin: 5px 150px;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.crud{
+    margin: 5px 150px;
+    border: 1px solid gray;
+    padding: 20px;
+}
